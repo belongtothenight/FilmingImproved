@@ -1,6 +1,7 @@
 # FilmingImproved
 
 [howto video](https://www.youtube.com/watch?v=_JZ7bnk3oiM)
+[src repo](https://github.com/FabricMC/fabric-example-mod/)
 
 ## Develop Goals
 
